@@ -1,0 +1,59 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+pubspec.lock
+
+# Android
+android/local.properties
+android/.gradle/
+android/.idea/
+android/captures/
+android/gradlew
+android/gradlew.bat
+*.apk
+*.aar
+*.so
+*.zip
+*.tar.gz
+*.rar
+
+# iOS
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.xcframework
+ios/Flutter/Flutter.xcframework/**/*
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/local.podspec
+ios/Podfile.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+*.xcworkspace
+xcuserdata/
+
+# Build
+*.apk
+*.ipa
+*.aar
+*.so
+*.zip
+*.rar
+
+# General
+*.log
+.env
+.env.local
